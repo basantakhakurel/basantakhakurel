@@ -3,9 +3,10 @@
 - 🌱 My works include using morphological data for Bayesian Methods.
 - 📫 You can reach me at basantakhakurel<@>gmail<.>com
 
-<!---
-basanta33/basanta33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basanta33" alt="basanta33" /> </p>
 
+<p align = "left">
+<img src = "https://github-readme-stats.vercel.app/api?username=basanta33&count_private=true&show_icons=true&theme=synthwave"  width = "400" height = "150"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=basanta33&layout=compact" height = "150"/>
+</p>
    

@@ -7,6 +7,6 @@
 
 <p align = "left">
 <img src = "https://github-readme-stats.vercel.app/api?username=basanta33&count_private=true&show_icons=true&theme=synthwave"  width = "400" height = "150"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=basanta33&layout=compact" height = "150"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=basantakhakurel&layout=compact" height = "150"/>
 </p>
    

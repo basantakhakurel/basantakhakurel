@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basantakhakurel" alt="basantakhakurel" /> </p>
 
 <p align = "left">
-<img src = "https://github-readme-stats.vercel.app/api?username=basantakhakurel&count_private=true&show_icons=true&theme=synthwave"  width = "400" height = "150"/>
+<img src = "https://github-stats-extended.vercel.app/api?username=basantakhakurel&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy"  width = "400" height = "150"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=basantakhakurel&layout=compact" height = "150"/>
 </p>
    

@@ -7,6 +7,5 @@
 
 <p align = "left">
 <img src = "https://github-stats-extended.vercel.app/api?username=basantakhakurel&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy"  width = "400" height = "150"/>
-<img src = "https://github-stats-extended.vercel.app/api/top-langs/?username=basantakhakurel&layout=compact" height = "150"/>
+<img src = "https://github-stats-extended.vercel.app/api/top-langs?username=basantakhakurel&layout=donut&theme=yeblu" height = "150"/>
 </p>
-   

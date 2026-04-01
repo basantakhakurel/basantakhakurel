@@ -5,7 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basantakhakurel" alt="basantakhakurel" /> </p>
 
-<p align = "left">
-<img src = "https://github-stats-extended.vercel.app/api?username=basantakhakurel&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy"  width = "400" height = "150"/>
-<img src = "https://github-stats-extended.vercel.app/api/top-langs?username=basantakhakurel&layout=donut&theme=yeblu" height = "150"/>
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=basantakhakurel&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basantakhakurel&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=basantakhakurel&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
